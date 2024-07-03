@@ -1,4 +1,4 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Л±®мы€€€€
-c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(о™пЋъ€€€€
-c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(о™пЋъ€€€€
+Ъ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Л±®мы€€€€J$1228e682-a246-4c50-88d8-2bdb09a12a71
+Й	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(о™пЋъ€€€€J$1081c37e-3e83-4396-bafb-51205a4f72ef
+Й	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(о™пЋъ€€€€J$85e47650-5304-47e2-a6a7-54ad4609bae7
